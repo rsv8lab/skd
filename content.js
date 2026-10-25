@@ -155,7 +155,7 @@ const SITE = {
     deadline: {
       label: "Deadline",
       text:  " application window",
-      date:  "15 Oct 2026",
+      date:  "13 December 2026",
       link:  ""
     }
   },
