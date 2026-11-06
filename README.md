@@ -63,7 +63,7 @@ builds the page from `content.js` (should rarely need edits), and
 - Auto-deploys on push to `main`
 
 `_headers` and `_redirects` are Cloudflare Pages config files and are
-picked up automatically.
+picked up automatically(RSV Lab-skd) Online.
 
 ## File structure
 
