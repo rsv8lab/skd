@@ -238,7 +238,7 @@ const SITE = {
      
      • To hide: set partnerLabUrl to ""
      ------------------------------------------------------------ */
-  partnerLabUrl:  "https://ecobioremediation.pages.dev/",
+  partnerLabUrl:  "https://skd.rsv8lab.workers.dev/",
   partnerLabText: "Eco-Bio Lab",
 
   /* ============================================================
