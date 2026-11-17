@@ -148,9 +148,9 @@ const SITE = {
   topNotices: {
     update: {
       label: "Latest",
-      text:  "RSV Lab AST Analysis Tool v2.2 released",
-      date:  "Sept 2026",
-      link:  "https://doi.org/10.5281/zenodo.20589848"
+      text:  "RSV Lab AST Analysis Tool (RSV_AST-vSKD) - (v2.1.0) released",
+      date:  "November 18, 2026",
+      link:  "https://doi.org/10.5281/zenodo.24323755"
     },
     deadline: {
       label: "Deadline",
